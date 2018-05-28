@@ -1,0 +1,151 @@
+/*Este estilo solo aplica para los formulario pop-up*/
+fieldset
+{
+  
+  color: #eee;
+  border-style: double;
+  background: transparent;
+  width: 320px;
+  border-color: green;
+  padding-right: 20rem;
+}
+
+.fieldset
+{
+  background-filter: blur(10px);
+  background-color: black;
+  width: 720px;
+  height: 760px;
+
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  opacity: 0.9;
+}
+
+.a
+{
+	color: #eee;
+  	text-decoration: none;
+}
+.a:hover
+{
+  color: gray;
+  text-decoration: underline;
+}
+
+.p
+{
+  line-height: 1.5em;
+  text-align: center;
+  padding-left: 5px;
+}
+
+.h2 
+{
+  font.size: 50px;
+  color: #5D8AA8;
+  text-transform: none;
+}
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before, .clearfix:after {
+  content: ' ';
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+
+.input {
+  border: none;
+  font-family: 'Open Sans', Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.5em;
+  padding: 0;
+  -webkit-appearance: none;
+  background-color: #3b4148;
+  border-radius: 0px 3px 3px 0px;
+  color: #E0E0E0;
+  margin-bottom: 1em;
+  padding: 0 16px;
+  width: 500px;
+  height: 50px;
+}
+
+.submit:hover
+ {
+  background-color: gray;
+}
+
+.span
+{
+	background-color: #363b41;
+  border-radius: 3px 0px 0px 3px;
+  color: #606468;
+  display: block;
+  float: left;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  width: 50px;
+  padding-left: -4px;
+}
+
+.submit
+{
+	border-radius: 3px;
+  background-color: #3b4148;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 2em;
+  width: 280px;
+  border-radius: 5px;
+}
+
+.i
+{
+  border-radius: 9px;
+}
+
+.l
+{
+  font-family: segoe print;
+  color: white;
+}
+
+.login
+{
+
+  border: none;
+  font-family: 'Open Sans', Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.5em;
+  padding: 0;
+  -webkit-appearance: none;
+  background-color: white;
+  border-radius: 5px;
+  color: black;
+  margin-bottom: 1em;
+  padding: 0 16px;
+  width: 333px;
+  height: 50px;
+}
+
+.pop{
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+ 
+
+  -webkit-box-direction: normal;
+ 
+  width: 100%;
+  pointer-events: auto;
+  background-color: ;
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 0.3rem;
+
+}
