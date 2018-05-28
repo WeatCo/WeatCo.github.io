@@ -1,0 +1,6 @@
+response-> debe tener un encabezado 
+etiquetas de html 5: header(marca una sesion para html como el encabezado) , section(hacer capsulamiento (noticias, articulos)) , article(secion de noticias(articulos)), aside(se puede poner un texto pequeño), footer(el pie de pagina), nav (navegacion(menu)).
+
+margin-top-> pixeles
+@media-> se utiliza para los videos e imagines
+imagenes-> with=100%, height=auto
